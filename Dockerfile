@@ -5,6 +5,4 @@ RUN yum -y install epel-release \
 && yum -y install vim \
 && yum -y install ledger
 
-WORKDIR /home
-ENTRYPOINT ["/usr/bin/env"]
-CMD [ "tree", ".", "--", "tree", "/"]
+CMD [ "/bin/bash"]
