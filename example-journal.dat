@@ -1,15 +1,15 @@
 2018-07-17 Otwarcie
 	Aktywa:Bob	$300
-	Aktywa:John -$300
+	Aktywa:John	-$300
 	
 2018-07-17 Jedzenie
 	Aktywa:Bob	-$3
-	Wydatki:Jedzenie:Chleb $1
-	Wydatki:Jedzenie:Masło $1.6
-	Wydatki:Jedzenie:Pomidor $0.4
+	Wydatki:Jedzenie:Chleb	$1
+	Wydatki:Jedzenie:Maslo	$1.6
+	Wydatki:Jedzenie:Pomidor	$0.4
 	
 2018-07-17 Napoje
-	Wydatki:Napoje:Sok $10
+	Wydatki:Napoje:Sok	$10
 	Aktywa:Bob	
 
 	
